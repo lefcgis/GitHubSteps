@@ -11,31 +11,30 @@ Muchas gracias
 #Innovación
 #WalshPerú
 
-<h1># Crear repositorios ✨🏆</h1>
+<h2># Crear repositorios ✨🏆</h2>
 
-<h1>📌 1. git init (Iniciar git).</h1>
+<h2>📌 1. git init (Iniciar git).</h2>
 
-<h1>📌 2. git status (Detectar cambios en el código).</h1>
+<h2>📌 2. git status (Detectar cambios en el código).</h2>
 
-<h1>📌 3. git add . (Agregar todos los cambios).</h1>
+<h2>📌 3. git add . (Agregar todos los cambios).</h2>
 
-<h1>📌 4. git commit -m "" (Sirve para identificar los cambios en el código, con sugerencia de que tengan un "nombre" que permita tener una ayuda para el lanzamiento).</h1>
+<h2>📌 4. git commit -m "" (Sirve para identificar los cambios en el código, con sugerencia de que tengan un "nombre" que permita tener una ayuda para el lanzamiento).</h2>
 
-<h1>📌 5. git remote origin [url del repositorio] (Permite conectar al repositorio).</h1>
+<h2>📌 5. git remote origin [url del repositorio] (Permite conectar al repositorio).</h2>
 
-<h1>📌 6. git push -u origin main (Manda los cambios de local a GitHub).</h1>
+<h2>📌 6. git push -u origin main (Manda los cambios de local a GitHub).</h2>
 
 
 
 <h1># Actualizar repositorios ✨🏆</h1>
 
-<h1> 1. git init (Iniciar git).</h1>
+<h2> 1. git init (Iniciar git).</h2>
 
-<h1> 2. git status (Detectar cambios en el código).</h1>
+<h2> 2. git status (Detectar cambios en el código).</h2>
 
-<h1> 3. git add . (Agregar todos los cambios).</h1>
+<h2> 3. git add . (Agregar todos los cambios).</h2>
 
-<h1> 4. git commit -m "modif_1" (Sirve para identificar los cambios en el código, con sugerencia de que tengan un "nombre" que permita tener una ayuda para el lanzamiento).</h1>
+<h2> 4. git commit -m "modif_1" (Sirve para identificar los cambios en el código, con sugerencia de que tengan un "nombre" que permita tener una ayuda para el lanzamiento).</h2>
 
-<h1> 5. git push -u origin main (Manda los cambios de local a GitHub).</h1>
-
+<h2> 5. git push -u origin main (Manda los cambios de local a GitHub).</h2>
