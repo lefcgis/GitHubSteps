@@ -1,4 +1,4 @@
-<h1># Manejo GitHub 🎁 </h1>
+<h1># Manejo de GitHub 🎁 </h1>
 
 A continuación, compartimos los <b>**pasos para crear y actualizar repositorios en GitHub**</b> para el uso del público en general.
 
@@ -11,7 +11,10 @@ Muchas gracias
 #Innovación
 #WalshPerú
 
-<h2># Crear repositorios ✨🏆</h2>
+<br />
+<br />
+
+<h1># Crear repositorios ✨🏆</h1>
 
 <h2>📌 1. git init (Iniciar git).</h2>
 
@@ -25,6 +28,10 @@ Muchas gracias
 
 <h2>📌 6. git push -u origin main (Manda los cambios de local a GitHub).</h2>
 
+<br />
+<br />
+<br />
+<br />
 
 
 <h1># Actualizar repositorios ✨🏆</h1>
