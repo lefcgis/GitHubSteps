@@ -45,3 +45,5 @@ Muchas gracias
 <h2> 4. git commit -m "modif_1" (Sirve para identificar los cambios en el código, con sugerencia de que tengan un "nombre" que permita tener una ayuda para el lanzamiento).</h2>
 
 <h2> 5. git push -u origin main (Manda los cambios de local a GitHub).</h2>
+
+<h2>📌 7. git pull (actualiza cambios realizados por otros usuarios de la raíz).</h2>
