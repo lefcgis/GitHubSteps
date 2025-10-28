@@ -46,4 +46,4 @@ Muchas gracias
 
 <h2> 5. git push -u origin main (Manda los cambios de local a GitHub).</h2>
 
-<h2>📌 7. git pull (actualiza cambios realizados por otros usuarios de la raíz).</h2>
+<h2> 6. git pull (actualiza cambios realizados por otros usuarios de la raíz).</h2>
