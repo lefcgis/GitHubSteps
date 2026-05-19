@@ -14,7 +14,7 @@ Muchas gracias
 <br />
 <br />
 
-<h1># Crear repositorios ✨🏆</h1>
+<h1># I. Crear repositorios ✨🏆</h1>
 
 <h2>📌 1. git init (Iniciar git).</h2>
 
@@ -34,7 +34,7 @@ Muchas gracias
 <br />
 
 
-<h1># Actualizar repositorios ✨🏆</h1>
+<h1># II. Actualizar repositorios ✨🏆</h1>
 
 <h2> 0. git pull (actualiza cambios realizados por otros usuarios de la raíz).</h2>
 
