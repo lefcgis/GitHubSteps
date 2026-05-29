@@ -50,51 +50,62 @@ git status
 💡 Modo Pollito: Es una radiografía. Te mostrará en color rojo los archivos nuevos o modificados que Git todavía no tiene guardados en su memoria.
 
 ### Paso 3: Preparar los archivos
-
+```bash
 git add .
-
+```
 ⚠️ Nota: El punto (.) significa "AGREGAR TODO". Si solo quieres agregar un archivo específico, usa git add nombre_del_archivo.txt.
 💡 Modo Pollito: Metes todos tus archivos rojos a la caja de preparación. Si vuelves a ejecutar git status, ahora saldrán en color verde.
 
 
 ###Paso 4: Registrar la foto (Tu primer guardado)
+```bash
 git commit -m "Mi primer commit: Estructura inicial del proyecto"
-
+```
 💡 Modo Pollito: Cierras la caja y le pones una etiqueta descriptiva obligatoria (-m). Consejo de oro: Escribe mensajes claros que expliquen qué cambiaste, evita usar cosas como "asdasd" o "cambios".
 
 
 ### Paso 5: Conectar tu computadora con GitHub
+```bash
 git remote add origin [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
-
+```
 ⚠️ Nota de corrección: Recuerda incluir siempre la palabra add para enlazar un servidor remoto por primera vez.
 💡 Modo Pollito: Construye un puente digital. Le dices a tu computadora: "A partir de ahora, tu destino en internet (origin) será esta URL de GitHub".
 
 
 ### Paso 6: Lanzar los archivos a la nube
+```bash
 git push -u origin main
-
+```
 💡 Modo Pollito: Empujas la caja a través del puente hacia la rama principal (main). El comando -u hace que la computadora recuerde el camino para que la próxima vez solo tengas que escribir git push.
 
 🔄 II. Actualizar un Repositorio Existente 🔄⚡
 Utiliza este flujo en tu día a día cuando tú u otra persona ya hayan creado el repositorio y solo necesites subir tus nuevos avances diarios.
 
 ### Paso 0: Traer lo último de internet (¡Súper Importante!)
+```bash
 git pull origin main
-
+```
 💡 Modo Pollito: Antes de que tú escribas una sola línea de código, descarga lo que otros miembros del equipo hayan subido a GitHub. Evita los famosos "conflictos de código".
 
 ### Paso 1: Verificar el estado actual
+```bash
 git status
+```
 
 ### Paso 2: Seleccionar los nuevos cambios
+```bash
 git add .
+```
 
 ### Paso 3: Sellar el paquete con un mensaje descriptivo
+```bash
 git commit -m "Actualización: Se añade sección explicativa para principiantes"
-
+```
 
 ### Paso 4: Enviar los cambios modificados a GitHub
+```bash
 git push origin main
+```
 
 🛠️ Tabla de Comandos Rápidos (Acordeón para Emergencias)
 Comando	¿Qué hace?	¿Cuándo usarlo?
