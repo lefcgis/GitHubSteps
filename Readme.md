@@ -55,7 +55,7 @@ git status
 ```bash
 git add .
 ```
-⚠️ Nota: El punto (.) significa "AGREGAR TODO". Si solo quieres agregar un archivo específico, usa git add nombre_del_archivo.txt.
+⚠️ Nota: El punto (.) significa "AGREGAR TODO". Si solo quieres agregar un archivo específico, usa git add nombre_del_archivo.txt.  
 💡 Modo Pollito: Metes todos tus archivos rojos a la caja de preparación. Si vuelves a ejecutar git status, ahora saldrán en color verde.
 
 
@@ -70,7 +70,7 @@ git commit -m "Mi primer commit: Estructura inicial del proyecto"
 ```bash
 git remote add origin [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
 ```
-⚠️ Nota de corrección: Recuerda incluir siempre la palabra add para enlazar un servidor remoto por primera vez.
+⚠️ Nota de corrección: Recuerda incluir siempre la palabra add para enlazar un servidor remoto por primera vez.  
 💡 Modo Pollito: Construye un puente digital. Le dices a tu computadora: "A partir de ahora, tu destino en internet (origin) será esta URL de GitHub".
 
 
