@@ -43,13 +43,13 @@ git init
 
 💡 Modo Pollito: Le da "superpoderes" a tu carpeta actual. Git creará un ojo invisible (una carpeta oculta llamada .git) para empezar a vigilar qué archivos entran y salen.
 
-Paso 2: Revisar qué ha cambiado
+### Paso 2: Revisar qué ha cambiado
 ```bash
 git status
 ```
 💡 Modo Pollito: Es una radiografía. Te mostrará en color rojo los archivos nuevos o modificados que Git todavía no tiene guardados en su memoria.
 
-Paso 3: Preparar los archivos
+### Paso 3: Preparar los archivos
 
 git add .
 
@@ -57,20 +57,20 @@ git add .
 💡 Modo Pollito: Metes todos tus archivos rojos a la caja de preparación. Si vuelves a ejecutar git status, ahora saldrán en color verde.
 
 
-Paso 4: Registrar la foto (Tu primer guardado)
+###Paso 4: Registrar la foto (Tu primer guardado)
 git commit -m "Mi primer commit: Estructura inicial del proyecto"
 
 💡 Modo Pollito: Cierras la caja y le pones una etiqueta descriptiva obligatoria (-m). Consejo de oro: Escribe mensajes claros que expliquen qué cambiaste, evita usar cosas como "asdasd" o "cambios".
 
 
-Paso 5: Conectar tu computadora con GitHub
+### Paso 5: Conectar tu computadora con GitHub
 git remote add origin [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/tu_usuario/tu_repositorio.git)
 
 ⚠️ Nota de corrección: Recuerda incluir siempre la palabra add para enlazar un servidor remoto por primera vez.
 💡 Modo Pollito: Construye un puente digital. Le dices a tu computadora: "A partir de ahora, tu destino en internet (origin) será esta URL de GitHub".
 
 
-Paso 6: Lanzar los archivos a la nube
+### Paso 6: Lanzar los archivos a la nube
 git push -u origin main
 
 💡 Modo Pollito: Empujas la caja a través del puente hacia la rama principal (main). El comando -u hace que la computadora recuerde el camino para que la próxima vez solo tengas que escribir git push.
@@ -78,22 +78,22 @@ git push -u origin main
 🔄 II. Actualizar un Repositorio Existente 🔄⚡
 Utiliza este flujo en tu día a día cuando tú u otra persona ya hayan creado el repositorio y solo necesites subir tus nuevos avances diarios.
 
-Paso 0: Traer lo último de internet (¡Súper Importante!)
+### Paso 0: Traer lo último de internet (¡Súper Importante!)
 git pull origin main
 
 💡 Modo Pollito: Antes de que tú escribas una sola línea de código, descarga lo que otros miembros del equipo hayan subido a GitHub. Evita los famosos "conflictos de código".
 
-Paso 1: Verificar el estado actual
+### Paso 1: Verificar el estado actual
 git status
 
-Paso 2: Seleccionar los nuevos cambios
+### Paso 2: Seleccionar los nuevos cambios
 git add .
 
-Paso 3: Sellar el paquete con un mensaje descriptivo
+### Paso 3: Sellar el paquete con un mensaje descriptivo
 git commit -m "Actualización: Se añade sección explicativa para principiantes"
 
 
-Paso 4: Enviar los cambios modificados a GitHub
+### Paso 4: Enviar los cambios modificados a GitHub
 git push origin main
 
 🛠️ Tabla de Comandos Rápidos (Acordeón para Emergencias)
